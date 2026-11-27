@@ -30,8 +30,8 @@ Java와 Spring 기반의 백엔드 개발자로 성장하고 있습니다.
 - 모의 결제 방식으로 결제 흐름 구현 (실제 PG사 연동 아님)
 
 **Repositories**
-- [Backend – SistTicket](https://github.com/hohun21/SistTicket)
-- [Frontend – sistticket-frontend](https://github.com/hohun21/sistticket-frontend)
+- [Backend – SistTicket](https://github.com/jmirace9/SistTicket)
+- [Frontend – sistticket-frontend](https://github.com/jmirace9/sistticket-frontend)
 
 ### 오늘의집 — 쇼핑몰 웹 애플리케이션
 카테고리 기반 상품 탐색과 회원 기능을 구현한 팀 프로젝트
@@ -42,8 +42,8 @@ Java와 Spring 기반의 백엔드 개발자로 성장하고 있습니다.
 - 담당 기능의 Spring Legacy 전환 및 MyBatis Mapper 적용
 
 **Repositories**
-- [JSP/Servlet – ohouse](https://github.com/hohun21/ohouse)
-- [Spring Legacy – ohouseSpring](https://github.com/hohun21/ohouseSpring)
+- [JSP/Servlet – ohouse](https://github.com/jmirace9/ohouse)
+- [Spring Legacy – ohouseSpring](https://github.com/jmirace9/ohouseSpring)
 
 ## Contact
 
